@@ -10,6 +10,7 @@ This is a skill library for AI-assisted creative writing. Each skill is a self-c
 
 | Skill | Description | Status |
 |-------|-------------|--------|
+| `brain-infra-novel` | 脑洞基建文写作 — 荒诞脑洞 + 硬核基建逻辑，含完整SOP、知识库、示例 | **Ready** |
 | `novel-writing` | Long-form novel writing with plot structure, character development, and chapter planning | WIP |
 | `podcast-script` | Podcast script writing with dialogue, pacing, and audio cues | WIP |
 | `screenplay` | Screenplay / film script writing in standard format | WIP |
