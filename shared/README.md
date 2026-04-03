@@ -72,7 +72,3 @@ shared/
 - **题材规则**：`shared/genre-rules/xxx.md`
 - **题材技巧**：`shared/genre-skills/xxx.md`
 ```
-
-## 数据来源
-
-规则与技巧内容来源于妙笔生花 Rulers 平台（https://rulers.wordflower.cn/），经结构化整理后落地为本仓库的共享层。
