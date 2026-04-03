@@ -15,6 +15,7 @@ The library has two layers:
 | Skill | Description | Status |
 |-------|-------------|--------|
 | `story-spark` | 故事灵感引擎 — 8维标签矩阵碰撞生成故事概念、人设、梗概，基于番茄/红果/爱优腾近5年爆款数据 | **Ready** |
+| `name-forge` | 命名锻造炉 — 4条命名路径×6种记忆点技巧，从梗概+风格一次性输出角色名/地名/组织名/道具名/书名 | **Ready** |
 | `brain-infra-novel` | 脑洞基建文写作 — 荒诞脑洞 + 硬核基建逻辑，含完整SOP、知识库、示例 | **Ready** |
 | `sweet-romance-drama` | 甜剧/言情创作 — 偶像爱情 × 奇幻/喜剧/萌宠/悬疑/事业/振兴多元素融合，含甜虐技法 | **Ready** |
 | `novel-writing` | Long-form novel writing with plot structure, character development, and chapter planning | WIP |
@@ -101,6 +102,7 @@ taozis-creative-writing/
 │       └── brain-hole.md
 ├── skills/                        # 技能层：完整创作 SOP
 │   ├── story-spark/
+│   ├── name-forge/
 │   ├── brain-infra-novel/
 │   ├── sweet-romance-drama/
 │   ├── novel-writing/       (WIP)
